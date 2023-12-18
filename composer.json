@@ -1,14 +1,14 @@
 {
-    "name": "Tomica/prva",
+    "name": "tomica/prva",
     "description": "prvi projekt sa composerom",
     "autoload": {
         "psr-4": {
-            "Tomica\\prvi\\": "src/"
+            "tomica\\prvi\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Tomica",
+            "name": "tomica",
             "email": "tomo.dodic17@gmail.com"
         }
     ],
