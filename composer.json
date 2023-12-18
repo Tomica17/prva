@@ -1,0 +1,17 @@
+{
+    "name": "guzzlehttp/guzzle",
+    "description": "Guzzle http za REST pozive",
+    "autoload": {
+        "psr-4": {
+            "Guzzlehttp\\Guzzle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomica",
+            "email": "tomo.dodic17@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
